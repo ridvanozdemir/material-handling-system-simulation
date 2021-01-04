@@ -1,0 +1,5 @@
+The argument '-tgtconn_server_info_file' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument 'C:\Users\EDMEM-PC\AppData\Local\Temp\tgtconnp56ffa8cf_6d8e_4a30_a88c_89991bb7c887.info' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '-tgtconn_port' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '0' passed to rtiostream_tcpip is not valid and will be ignored.
+Warning: Model stop time is set to infinity. Simulation may run forever.
